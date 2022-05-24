@@ -2,7 +2,7 @@
 - 👀 I’m interested in Human Mind.
 - 🌱 I’m currently learning DSA & New Ideas & Coding & Data.
 - 💞️ I’m looking to collaborate on Dynamic & helpful Folks.
-- 📫 How to reach me 
+- 📫 How to reach me in https://www.linkedin.com/in/dipayan-m-614807ab
 
 <!---
 DipayanML/DipayanML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
